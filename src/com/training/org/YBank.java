@@ -13,7 +13,7 @@ public class YBank {
     }
 
     public YBank(String bankName, String bankAddress, int noOfEmployees) {
-        System.out.println("Parameterised constructor of XYZBank is called");
+        System.out.println("Parameterised constructor of YBank is called");
         this.bankName = bankName;
         this.bankAddress = bankAddress;
         this.noOfEmployees = noOfEmployees;
