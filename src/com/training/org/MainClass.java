@@ -7,5 +7,7 @@ public class MainClass {
 
         YBank x2=new YBank("MyBank","USA",40000);
         System.out.println(x2);
+
+        YBank x3=new YBank();
     }
 }
