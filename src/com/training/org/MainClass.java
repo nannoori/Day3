@@ -9,5 +9,6 @@ public class MainClass {
         System.out.println(x2);
 
         YBank x3=new YBank();
+        System.out.println(x3);
     }
 }
